@@ -1,5 +1,5 @@
 # projects
 
-https://Hectorovich.github.io/projects/
+- [Preview](https://Hectorovich.github.io/projects/)
 
-https://github.com/Hectorovich/projects/pull/1/files
+- [Pull Request](https://github.com/Hectorovich/projects/pull/1/files)
